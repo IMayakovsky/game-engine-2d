@@ -1,0 +1,25 @@
+=====Tree: 004=====
+_x: 25;
+_y: 46;
+_image: src/assets/images/tree_004.png;
+_width: 20;
+_height: 35;
+=====Shrub: 001=====
+_x: 2;
+_y: 65.5;
+_image: src/assets/images/shrub_001.png;
+_width: 13;
+_height: 15;
+=====Cave: 001=====
+_x: 70;
+_y: 50;
+_image: src/assets/images/cave_en_002.png;
+_width: 30;
+_height: 30;
+=====Shrub: 002=====
+_x: 90;
+_y: 69;
+_image: src/assets/images/shrub_001.png;
+_width: 10;
+_height: 12;
+=====EOF=====

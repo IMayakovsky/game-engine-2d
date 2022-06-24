@@ -1,0 +1,3 @@
+_backgroundImage: src/assets/images/background_003.png;
+_nextCard: gameLevel_1_4;
+_prevCard: gameLevel_1_1;

@@ -1,0 +1,14 @@
+_spritesAmount: 8;
+_SP1: src/assets/enemy/textures/rogue_1_1.png;
+_SP2: src/assets/enemy/textures/rogue_1_2.png;
+_SP3: src/assets/enemy/textures/rogue_1_3.png;
+_SP4: src/assets/enemy/textures/rogue_1_4.png;
+_SP5: src/assets/enemy/textures/rogue_1_5.png;
+_SP6: src/assets/enemy/textures/rogue_1_6.png;
+_SP7: src/assets/enemy/textures/rogue_1_7.png;
+_SP8: src/assets/enemy/textures/rogue_1_8.png;
+_Shoot: src/assets/enemy/textures/rogue_shoot.png;
+_Jump: src/assets/enemy/textures/rogue_1_1.png;
+_Strike: src/assets/enemy/textures/rogue_1_attack.png;
+_arrowImage: src/assets/images/arrow_1.png;
+=====EOF=====

@@ -1,0 +1,11 @@
+====Text: 1====
+_x: 34;
+_y: 46;
+_width: 100;
+_height: 5;
+_name: It's done. I can finish my way;
+_fontFamily: Garamond;
+_fontStyle: Italic;
+_fontSize: 24;
+_color: 00000000;
+=====EOF=====

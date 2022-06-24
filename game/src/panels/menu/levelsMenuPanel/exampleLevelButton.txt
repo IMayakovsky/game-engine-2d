@@ -1,0 +1,8 @@
+_x: 43;
+_y: 23;
+_width: 14;
+_height: 5;
+_buttonsDistance: 10;
+_fontFamily: Arial;
+_fontSize: 9;
+=====EOF=====

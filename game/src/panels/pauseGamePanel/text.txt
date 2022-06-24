@@ -1,0 +1,11 @@
+====Text: 1====
+_x: 47;
+_y: 10;
+_width: 10;
+_height: 5;
+_name: PAUSE;
+_fontFamily: Times New Roman;
+_fontStyle: Bold;
+_fontSize: 20;
+_color: White;
+=====EOF=====

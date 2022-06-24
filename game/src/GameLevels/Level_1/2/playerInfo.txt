@@ -1,0 +1,6 @@
+_width: 8;
+_height: 12;
+_start_x: 2;
+_start_y: 68;
+_end_x: 90;
+_end_y: 68;

@@ -1,0 +1,7 @@
+=====LOGO=====
+_image: src/panels/menu/mainMenuPanel/textures/logo.png;
+_x: 13;
+_y: 20;
+_width: 35;
+_height: 15;
+=====EOF=====

@@ -1,0 +1,25 @@
+=====toTower: 004=====
+_x: 67;
+_y: 68;
+_image: src/assets/images/marker.png;
+_type: Checkpoint;
+_function: ChangeLocation;
+_x_transfer: 70;
+_y_transfer: 27;
+_width: 2;
+_height: 4;
+_zValue: 40;
+_playerZValue: 20;
+=====fromTower: 004=====
+_x: 61;
+_y: 30;
+_image: src/assets/images/marker.png;
+_type: Checkpoint;
+_function: ChangeLocation;
+_x_transfer: 67;
+_y_transfer: 68;
+_width: 2;
+_height: 4;
+_zValue: 40;
+_playerZValue: 50;
+=====EOF=====

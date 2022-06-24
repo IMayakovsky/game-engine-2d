@@ -1,0 +1,20 @@
+=====Tree: 004=====
+_x: 25;
+_y: 45;
+_image: src/assets/images/tree_004.png;
+_width: 20;
+_height: 36;
+=====Shrub: 001=====
+_x: 2;
+_y: 65;
+_image: src/assets/images/shrub_001.png;
+_width: 13;
+_height: 15;
+=====Tower=====
+_x: 58;
+_y: 30;
+_image: src/assets/images/tower_001.png;
+_width: 20;
+_height: 50;
+_zValue: 40;
+=====EOF=====

@@ -1,0 +1,7 @@
+=====LOGO=====
+_image: src/panels/menu/controlsMenuPanel/textures/manual.png;
+_x: 20;
+_y: 10;
+_width: 60;
+_height: 73;
+=====EOF=====

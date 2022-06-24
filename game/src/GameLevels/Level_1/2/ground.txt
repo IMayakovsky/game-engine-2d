@@ -1,0 +1,13 @@
+=====Ground: 1=====
+_x: 0;
+_y: 80;
+_image: src/assets/images/ground_003.png;
+_width: 50;
+_height: 20;
+=====Ground: 2=====
+_x: 50;
+_y: 80;
+_image: src/assets/images/ground_003.png;
+_width: 50;
+_height: 20;
+=====EOF=====

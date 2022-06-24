@@ -1,0 +1,3 @@
+_arrowsCount: 10;
+_health: 100;
+_levelName: gameLevel_1_1;

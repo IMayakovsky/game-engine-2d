@@ -1,0 +1,19 @@
+=====Enemy: 1=====
+_x: 48;
+_y: 67;
+_type: Archer;
+_mainLink: src/assets/enemy;
+_width: -9;
+_height: 11;
+_health: 60;
+_zValue: 100;
+=====Enemy: 2=====
+_x: 75;
+_y: 67;
+_type: Archer;
+_mainLink: src/assets/enemy;
+_width: -9;
+_height: 11;
+_health: 60;
+_zValue: 100;
+=====EOF=====

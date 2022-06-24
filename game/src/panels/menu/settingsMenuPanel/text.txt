@@ -1,0 +1,46 @@
+====Text: 1====
+_x: 46.5;
+_y: 10;
+_name: Settings;
+_text: Settings;
+_fontFamily: Times New Roman;
+_fontStyle: Italic;
+_fontSize: 20;
+_color: White;
+====Text: 1====
+_x: 38;
+_y: 26;
+_name: Story Mode:;
+_text: Story Mode:;
+_fontFamily: Times New Roman;
+_fontStyle: Italic;
+_fontSize: 16;
+_color: White;
+====Text: 1====
+_x: 38;
+_y: 36;
+_name: God Mode:;
+_text: God Mode:;
+_fontFamily: Times New Roman;
+_fontStyle: Bold;
+_fontSize: 16;
+_color: White;
+====Text: 1====
+_x: 38;
+_y: 46;
+_name: Music and Sounds:;
+_text: Music and Sounds:;
+_fontFamily: Times New Roman;
+_fontStyle: Bold;
+_fontSize: 16;
+_color: White;
+====Text: 1====
+_x: 17.5;
+_y: 36;
+_name: Resolution;
+_text: Resolution;
+_fontFamily: Times New Roman;
+_fontStyle: Bold;
+_fontSize: 16;
+_color: White;
+=====EOF=====

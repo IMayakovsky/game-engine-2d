@@ -1,0 +1,6 @@
+_box_x: 15.8;
+_box_y: 42;
+_box_width: 10;
+_box_height: 3;
+_full_screen_x: 18;
+_full_screen_y: 50;

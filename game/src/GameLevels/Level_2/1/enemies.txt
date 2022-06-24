@@ -1,0 +1,19 @@
+=====Enemy: 1=====
+_x: 100;
+_y: 66;
+_type: Warrior;
+_image: src/assets/enemy/textures/rogue_1_1.png;
+_mainLink: src/assets/enemy;
+_width: -9;
+_height: 11;
+_health: 92;
+=====Enemy: 2=====
+_x: 66;
+_y: 66;
+_type: Archer;
+_image: src/assets/enemy/textures/rogue_1_1.png;
+_mainLink: src/assets/enemy;
+_width: -9;
+_height: 11;
+_health: 50;
+=====EOF=====

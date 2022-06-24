@@ -1,0 +1,3 @@
+_backgroundImage: src/assets/images/background_02.png;
+_nextCard: none;
+_prevCard: none;

@@ -1,0 +1,10 @@
+=====toCave: 004=====
+_x: 88;
+_y: 75;
+_image: src/assets/images/checkPoint_002.png;
+_type: Checkpoint;
+_function: SwitchCard;
+_card: gameLevel_1_2;
+_width: 4;
+_height: 5;
+=====EOF=====

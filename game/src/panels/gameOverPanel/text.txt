@@ -1,0 +1,11 @@
+====Text: 1====
+_x: 45;
+_y: 7;
+_width: 10;
+_height: 5;
+_name: GAME OVER;
+_fontFamily: Times New Roman;
+_fontStyle: Bold;
+_fontSize: 20;
+_color: red;
+=====EOF=====

@@ -1,0 +1,7 @@
+=====BACKGROUND=====
+_image: src/assets/images/stories/storyPanel.png;
+_x: 10;
+_y: 20;
+_width: 80;
+_height: 60;
+=====EOF=====

@@ -1,0 +1,11 @@
+====Text: 1====
+_x: 45;
+_y: 15;
+_width: 100;
+_height: 5;
+_name: Game Levels;
+_fontFamily: Times New Roman;
+_fontStyle: s;
+_fontSize: 24;
+_color: White;
+=====EOF=====

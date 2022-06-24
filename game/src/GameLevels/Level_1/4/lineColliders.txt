@@ -1,0 +1,4 @@
+_collider_1: 58 0 58 40;
+_collider_2: 77 0 77 40;
+_collider_3: 57 40 77 40;
+_collider_3_type: GROUND;

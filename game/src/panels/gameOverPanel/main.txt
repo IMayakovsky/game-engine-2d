@@ -1,0 +1,2 @@
+_backgroundColor: 3487029;
+_backgroundImage: none;

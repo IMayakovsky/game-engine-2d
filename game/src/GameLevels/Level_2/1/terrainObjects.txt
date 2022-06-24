@@ -1,0 +1,7 @@
+=====Shrub: 001=====
+_x: 2;
+_y: 66;
+_image: src/assets/images/shrub_001.png;
+_width: 13;
+_height: 15;
+=====EOF=====

@@ -1,0 +1,7 @@
+QPushButton#first
+{
+width: 40px;
+background-color: red;
+border-color: green;
+border-width: 3px;
+}

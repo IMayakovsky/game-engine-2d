@@ -1,0 +1,26 @@
+=====Ground: 1=====
+_x: 0;
+_y: 80;
+_image: src/assets/images/ground_002.png;
+_width: 35;
+_height: 20;
+=====Ground: 2=====
+_x: 33;
+_y: 80;
+_image: src/assets/images/ground_002.png;
+_width: 36;
+_height: 20;
+=====Ground: 3=====
+_x: 66;
+_y: 80;
+_image: src/assets/images/ground_002.png;
+_width: 35;
+_height: 20;
+=====Stone: 1=====
+_x: 30;
+_y: 70;
+_image: src/assets/images/stone_002.png;
+_width: 18;
+_height: 10;
+_zValue: 40;
+=====EOF=====

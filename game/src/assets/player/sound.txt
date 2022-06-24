@@ -1,0 +1,2 @@
+_strikeSound: src/assets/player/sound/strike.wav;
+_getItemSound: src/assets/player/sound/itemGet.wav;

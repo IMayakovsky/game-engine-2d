@@ -1,0 +1,3 @@
+_backgroundImage: src/assets/images/vajt.png;
+_nextCard: mainMenu;
+_prevCard: none;

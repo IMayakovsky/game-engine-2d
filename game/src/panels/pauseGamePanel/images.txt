@@ -1,0 +1,7 @@
+=====LOGO=====
+_image: src/assets/images/panels_common/dragon.png;
+_x: 44;
+_y: 25;
+_width: 12;
+_height: 22;
+=====EOF=====

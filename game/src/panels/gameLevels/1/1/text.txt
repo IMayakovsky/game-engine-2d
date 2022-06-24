@@ -1,0 +1,41 @@
+====Text: 1====
+_x: 22;
+_y: 40;
+_width: 100;
+_height: 5;
+_name: I had a very long way to find this place. Here must be Larzen.;
+_fontFamily: Garamond;
+_fontStyle: Italic;
+_fontSize: 24;
+_color: Black;
+====Text: 2====
+_x: 40;
+_y: 45;
+_width: 100;
+_height: 5;
+_name: I have been searching for him since last year.;
+_fontFamily: Garamond;
+_fontStyle: Italic;
+_fontSize: 24;
+_color: 00000000;
+====Text: 3====
+_x: 22;
+_y: 50;
+_width: 100;
+_height: 5;
+_name: There was much, what I had passed. He good tried to hold me, but;
+_fontFamily: Garamond;
+_fontStyle: Italic;
+_fontSize: 24;
+_color: 00000000;
+====Text: 4====
+_x: 40;
+_y: 55;
+_width: 100;
+_height: 5;
+_name: I am here and I am going to grip him.;
+_fontFamily: Garamond;
+_fontStyle: Italic;
+_fontSize: 24;
+_color: 00000000;
+=====EOF=====

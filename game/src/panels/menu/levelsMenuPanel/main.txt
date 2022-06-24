@@ -1,0 +1,2 @@
+_backgroundColor: none;
+_backgroundImage: ../src/assets/images/panels_common/background.gif;

@@ -1,0 +1,15 @@
+=====Potion: 1=====
+_x: 55;
+_y: 70;
+_type: potion;
+_image: src/assets/images/potionOfHealth.png;
+_width: 4;
+_height: 5;
+=====Arrow: 1=====
+_x: 45;
+_y: 70;
+_type: arrow;
+_image: src/assets/images/arrowItem.png;
+_width: 6;
+_height: 8;
+=====EOF=====

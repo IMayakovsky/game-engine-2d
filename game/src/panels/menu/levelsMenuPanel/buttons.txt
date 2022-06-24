@@ -1,0 +1,9 @@
+=====Button: 3=====
+_name: ToBack;
+_text: BACK TO MAIN MENU;
+_x: 40;
+_y: 65;
+_width: 20;
+_height: 5;
+_fontSize: 10;
+=====EOF=====

@@ -1,0 +1,10 @@
+=====Button: 1=====
+_name: ToBack;
+_text: Play;
+_x: 45;
+_y: 80;
+_width: 15;
+_height: 5;
+_fontFamily: Arial;
+_fontSize: 9;
+=====EOF=====

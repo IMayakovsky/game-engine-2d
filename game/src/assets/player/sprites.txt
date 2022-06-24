@@ -1,0 +1,13 @@
+_spritesAmount: 8;
+_SP1: src/assets/player/textures/dova_1.png;
+_SP2: src/assets/player/textures/dova_2.png;
+_SP3: src/assets/player/textures/dova_3.png;
+_SP4: src/assets/player/textures/dova_4.png;
+_SP5: src/assets/player/textures/dova_5.png;
+_SP6: src/assets/player/textures/dova_6.png;
+_SP7: src/assets/player/textures/dova_7.png;
+_SP8: src/assets/player/textures/dova_8.png;
+_Shoot: src/assets/player/textures/dova_row.png;
+_Jump: src/assets/player/textures/dova_jump.png;
+_Strike: src/assets/player/textures/dova_strike.png;
+=====EOF=====
